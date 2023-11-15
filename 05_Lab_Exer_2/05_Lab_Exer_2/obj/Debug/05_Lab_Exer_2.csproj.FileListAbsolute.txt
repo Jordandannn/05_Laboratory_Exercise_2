@@ -1,0 +1,13 @@
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\obj\Debug\05_Lab_Exer_2.csproj.AssemblyReference.cache
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\obj\Debug\05_Lab_Exer_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\obj\Debug\_05_Lab_Exer_2.FrmOpenTextFile.resources
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\obj\Debug\_05_Lab_Exer_2.Properties.Resources.resources
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\obj\Debug\05_Lab_Exer_2.csproj.GenerateResource.cache
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\obj\Debug\05_Lab_Exer_2.csproj.CoreCompileInputs.cache
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\bin\Debug\05_Lab_Exer_2.exe.config
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\bin\Debug\05_Lab_Exer_2.exe
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\bin\Debug\05_Lab_Exer_2.pdb
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\obj\Debug\05_Lab_Exer_2.exe
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\obj\Debug\05_Lab_Exer_2.pdb
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\obj\Debug\_05_Lab_Exer_2.FrmRegistration.resources
+C:\Users\Perez.277243\source\repos\05_Lab_Exer_2\05_Lab_Exer_2\obj\Debug\_05_Lab_Exer_2.FrmStudentRecord.resources
